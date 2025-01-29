@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Sr. software engineera
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
